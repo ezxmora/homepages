@@ -9,7 +9,7 @@ Some were created years ago, so there is a lot of spaghetti and they could be br
 ======
 ![01](./img/01.png "01")
 
-## Features
+#### Features
 * Wikipedia Search 
     * `/w <query>` in the search bar
 * YouTube Search 
